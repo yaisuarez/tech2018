@@ -6,8 +6,8 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <!--Content of Fragment-->
 
+    <!--Content of Fragment-->
     <FrameLayout
         android:id="@+id/contentMainFragment"
         android:layout_width="match_parent"
