@@ -1,0 +1,12 @@
+git 
+
+git --version
+git config --global user.name " Name of you  "
+
+User : tech@2018
+
+git config --global user.email " mail of you  "
+
+mail : yaisuarez5@hotmail.com
+
+git config --list
